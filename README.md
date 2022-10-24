@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadi Atef</h1>
-<h3 align="center">A 3rd-year undergraduate student in computer science at Ain Shams University</h3>
+<h3 align="center">A 4th-year undergraduate student in computer science at Ain Shams University</h3>
 
 - 🌱 I’m currently learning **Android, Linux**
 
