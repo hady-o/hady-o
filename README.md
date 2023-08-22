@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hadi Atef</h1>
-<h3 align="center">A 4th-year undergraduate student in computer science at Ain Shams University</h3>
+<h3 align="start">Fresh graduted at the Faculty of Computer and Information Sciences Ain Shams University 2023 And interested in Mobile Application (Android & Ios).</h3>
 
-- 🌱 I’m currently learning **Android, Linux**
+- :briefcase: I’m currently working as an Android Developer
 
+- 🌱 I’m currently learning **Android, Ios, Linux**
+
+- 🎓 I graduated from Computer Sciences at ASU in Egypt
+  
 - 📫 How to reach me **Hadyatef70@gmail.com**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
