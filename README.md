@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hadi Atef</h1>
-<h3 align="start">Fresh graduted at the Faculty of Computer and Information Sciences Ain Shams University 2023 And interested in Mobile Application (Android & Ios).</h3>
+<h3 align="start">A mobile developer with 2 years of experience specializing in Android app development.
+Solid foundation in building, testing, and maintaining Android applications. 
+Graduated in Computer Science from Ain Shams University. 
+Focused on delivering clean, efficient code and ensuring a smooth user experience. 
+Experienced in collaborating effectively within team 
+environments to deliver quality software.</h3>
 
 - :briefcase: I’m currently working as an Android Developer
 
